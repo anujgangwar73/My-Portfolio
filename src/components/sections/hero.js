@@ -74,7 +74,7 @@ const Hero = () => {
         <a href="https://www.saleshandy.com/" target="_blank" rel="noreferrer">
           Saleshandy
         </a> */}
-        .
+        
       </p>
     </>
   );
