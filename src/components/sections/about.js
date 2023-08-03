@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python','JavaScript(ES6+)','ReactJs', 'Django', 'Django RSET Framework', 'MySQL'];
+  const skills = ['Python','JavaScript(ES6+)','ReactJs', 'Django', 'Django REST Framework', 'MySQL'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,10 +141,9 @@ const About = () => {
             </p>
 
             <p>
-              Fast forward to today ,I have improved and learnt lot but still I am thriving for more
-              improving bit by bit and day by day , An open source enthusiast and problem solver
-              by heart always looking to learn
-              and expand my knowledge, feel free to connect for inputs and collaborations.
+              Fast forward to today, I have improved and learnt a lot but still I am thriving for more
+              improving bit by bit and day by day, An open source enthusiast and problem solver
+              by heart always looking to learn and expand my knowledge, feel free to connect for inputs and collaborations.
              
              
             </p>
@@ -154,7 +153,6 @@ const About = () => {
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
-
           <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
           </ul>

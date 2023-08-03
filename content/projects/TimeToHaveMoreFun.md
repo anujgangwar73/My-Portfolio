@@ -1,6 +1,6 @@
 ---
 date: '2023-05-10'
-title: 'Restraunt Landing page '
+title: 'Restaurant Landing page '
 github: 'https://github.com/anujgangwar73/Restaurant-App-React'
 external: 'https://foodgardens.netlify.app'
 tech:
@@ -13,5 +13,5 @@ showInProjects: true
 ---
 
 
-A simple Restraunt landing page which contains variety of orders to select from also contains
+A simple Restaraunt landing page which contains variety of orders to select from also contains
 different menu for different day.
