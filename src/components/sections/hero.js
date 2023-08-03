@@ -69,7 +69,7 @@ const Hero = () => {
         I’m a passionate software developer, looking for opportunities to learn and grow. I
         love to solve real world problems and skilled in front-end development and its libraries as well as in back-end development 
         and also able to design & develop RESTful APIs. I also know how to integrate APIs with database such as MySQL.
-        Currently looking for a opportunities in Software Engineering Domain.
+        Currently looking for a exciting opportunities in Software Engineering Domain.
         {/* Currently working for{' '}
         <a href="https://www.saleshandy.com/" target="_blank" rel="noreferrer">
           Saleshandy
