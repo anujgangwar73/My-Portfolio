@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Todo List'
+title: 'To-do List'
 cover: './halcyon.png'
 github: 'https://github.com/anujgangwar73/Todo-App-React'
 # external: 'https://my-to-do-notes.netlify.app'

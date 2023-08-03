@@ -142,7 +142,7 @@ const About = () => {
 
             <p>
               Fast forward to today, I have improved and learnt a lot but still I am thriving for more
-              improving bit by bit and day by day, An open source enthusiast and problem solver
+              improving bit by bit and day by day. An open source enthusiast and problem solver
               by heart always looking to learn and expand my knowledge, feel free to connect for inputs and collaborations.
              
              

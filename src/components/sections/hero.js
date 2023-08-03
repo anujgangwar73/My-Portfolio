@@ -66,9 +66,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Passioante software developer. Currently looking for opportunities to learn and grow. I
-        love to solve real world problems and I am skilled in frontend development and its libraries as well as in backend development.
-        Currently looking for a job in Software Engineering Domain
+        I’m a passionate software developer, looking for opportunities to learn and grow. I
+        love to solve real world problems and skilled in front-end development and its libraries as well as in back-end development 
+        and also able to design & develop RESTful APIs. I also know how to integrate APIs with database such as MySQL.
+        Currently looking for a job in Software Engineering Domain.
         {/* Currently working for{' '}
         <a href="https://www.saleshandy.com/" target="_blank" rel="noreferrer">
           Saleshandy
