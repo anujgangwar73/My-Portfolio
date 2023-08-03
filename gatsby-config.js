@@ -5,7 +5,7 @@ module.exports = {
     title: 'Anuj Gangwar',
     description:
       'Anuj is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://my-portfolio-main.netlify.app/', // No trailing slash allowed!
     image: '', // Path to your image you placed in the 'static' folder
     twitterUsername: '@anujgangwar73',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
+        name: 'Anuj Gangwar',
+        short_name: 'Anuj Gangwar',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
