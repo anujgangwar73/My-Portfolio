@@ -136,7 +136,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Anuj and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2019 when I decided to join college and learnt 
+              interest in web development started back in 2017 when I decided to take Computer Science as my optional subject in class 11th and learnt 
               how these websites look so dynamic and functional using  HTML &amp; CSS!
             </p>
 
