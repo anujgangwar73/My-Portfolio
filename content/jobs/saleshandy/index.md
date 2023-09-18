@@ -1,13 +1,13 @@
-<!-- ---
-date: '2023-20-03'
-title: 'Assosiate Sofware engineer'
-company: 'Saleshandy'
-location: 'Hybrid'
-range: 'March 2023 - Present'
-url: 'https://www.saleshandy.com/'
+---
+date: '2023-01-09'
+title: 'Web Development Intern'
+company: 'Prodigy Infotech'
+location: 'Remote'
+range: 'September 2023 - Present'
+url: 'https://prodigyinfotech.dev/'
 
 ---
 
-- Developed and maintained a cold emailing SaaS product on daily basis.
-- Integrated SMTP and other modals for bulk mailing, low cost ,extended area coverage and for reliable Fand quick email delivery.
-- Integrated various third party software systems such as howuku,beacon to increase user experience. -->
+- Migrated a multi-page user experience into a single page app, improving customer engangment by 10%.
+- Maintained,developed and designed landing page for restaurant.
+- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis

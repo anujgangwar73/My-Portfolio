@@ -1,13 +1,12 @@
 ---
-date: '2022-12-14'
-title: ' Frontend Engineer intern'
-company: 'Wholphintech pvt ltd'
+date: '2023-09-01'
+title: ' Web Development Intern'
+company: 'CodeClause'
 location: 'Remote'
-range: 'December 2022 - Present'
-url: 'http://wholphintech.com/'
+range: 'September 2023 - Present'
+url: 'https://codeclause.com/'
 ---
 
 - Migrated a multi-page user experience into a single page app, improving customer engangment by 10%.
-- Maintained,developed and designed User and Order pages for a E-commerce Museum-based site.
+- Maintained,developed and designed weather application with real-time weather api.
 - Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
-- State Managment using Context API
