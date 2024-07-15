@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Python','JavaScript(ES6+)','ReactJs', 'Django', 'Django REST Framework', 'MySQL','GitHub'];
+  const skills = ['HTML', 'SCSS', 'JavaScript(ES6+)', 'TypeScript', , 'React', 'Git'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,20 +136,20 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Anuj and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2017 when I decided to take Computer Science as my optional subject in class 11th and learnt 
-              how these websites look so dynamic and functional using  HTML &amp; CSS!
+              interest in web development started back in 2017 when I decided to take Computer Science as my optional subject in class 11th and learnt
+              how these websites look so dynamic and functional using  HTML, CSS & JavaScript.
             </p>
 
             <p>
               Fast forward to today, I have improved and learnt a lot but still I am thriving for more
               improving bit by bit and day by day. An open source enthusiast and problem solver
               by heart always looking to learn and expand my knowledge, feel free to connect for inputs and collaborations.
-             
-             
+
+
             </p>
 
-           
-           
+
+
 
             <p>Here are a few technologies I’ve been working with recently:</p>
           </div>

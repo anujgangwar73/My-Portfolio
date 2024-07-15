@@ -6,7 +6,7 @@ module.exports = [{
       options: {"plugins":[]},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Anuj Gangwar","short_name":"Anuj Gangwar","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"2556385f4bc7bc0d0e1e2d90f427df1c"},
+      options: {"plugins":[],"name":"Anuj","short_name":"Anuj","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.jpeg","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"2f738a6a2d816d9bb463a82b00f820b5"},
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[]},

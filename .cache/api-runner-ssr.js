@@ -1,30 +1,30 @@
 var plugins = [{
       name: 'gatsby-plugin-react-helmet',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-styled-components',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"topLevelImportPaths":[],"pure":false,"disableVendorPrefixes":false},
     },{
       name: 'gatsby-plugin-image',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-image/gatsby-ssr'),
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-image/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-sitemap',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap","createLinkInHead":true,"entryLimit":45000,"query":"{ site { siteMetadata { siteUrl } } allSitePage { nodes { path } } }","excludes":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Anuj Gangwar","short_name":"Anuj Gangwar","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"2556385f4bc7bc0d0e1e2d90f427df1c"},
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      options: {"plugins":[],"name":"Anuj","short_name":"Anuj","start_url":"/","background_color":"#020c1b","theme_color":"#0a192f","display":"minimal-ui","icon":"src/images/logo.jpeg","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"2f738a6a2d816d9bb463a82b00f820b5"},
     },{
       name: 'gatsby-plugin-offline',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-google-analytics',
-      plugin: require('D:/Anuj/Portfolio/Portfolio-Main/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('D:/Portfolio/My-Portfolio/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-45666519-2","head":false,"anonymize":false,"respectDNT":false,"exclude":[],"pageTransitionDelay":0,"enableWebVitalsTracking":false},
     }]
 /* global plugins */

@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-       I am looking forward for Internship and Full-time role for software developer, my inbox
+       I am looking forward for full-time role for Frontend/React Developer, my inbox
        is always open regarding any chat, new ideas or collaborations for open source,feel free to connect.
       </p>
 

@@ -6,10 +6,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/anujgangwar73',
     },
-    {
-      name: 'HackerRank',
-      url: 'https://www.hackerrank.com/anuj73',
-    },
+    // {
+    //   name: 'HackerRank',
+    //   url: 'https://www.hackerrank.com/anuj73',
+    // },
     {
       name: 'Twitter',
       url: ' https://twitter.com/anuj_gangwar73',

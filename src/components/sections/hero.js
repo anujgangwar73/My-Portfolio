@@ -66,14 +66,13 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a passionate software developer, looking for opportunities to learn and grow. I
-        love to solve real world problems and skilled in front-end development and its libraries as well as in back-end development 
-        and also able to design & develop RESTful APIs. I also know how to integrate APIs with database such as MySQL.
-        Currently looking for exciting opportunities in Software Engineering Domain.
-        {/* Currently working for{' '}
-        <a href="https://www.saleshandy.com/" target="_blank" rel="noreferrer">
-          Saleshandy
-        </a> */}
+        I am a passionate Frontend Developer with a strong foundation in front-end development and its associated libraries.
+        I excel at solving real-world problems and have experience integrating APIs with databases like MongoDB.
+        I am currently seeking exciting opportunities in the Software Engineering domain to learn, grow, and contribute my skills to innovative projects.
+        Currently working for{''}
+        <a href="https://www.pinnacleway.work/" target="_blank" rel="noreferrer">
+          PinnacleWay Biz Solutions
+        </a>
       </p>
     </>
   );

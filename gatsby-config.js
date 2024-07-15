@@ -20,13 +20,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Anuj Gangwar',
-        short_name: 'Anuj Gangwar',
+        name: 'Anuj',
+        short_name: 'Anuj',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/logo.jpeg',
       },
     },
     `gatsby-plugin-offline`,
